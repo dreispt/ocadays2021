@@ -3,9 +3,9 @@
 	url = https://github.com/odoo/odoo.git
 [submodule "src/sale-workflow"]
 	path = src/sale-workflow
-	url = https://github.com/oca/sale-workflow.git
+	url = https://github.com/dreispt/sale-workflow.git
 	branch = 15.0
 [submodule "src/stock-logistics-workflow"]
 	path = src/stock-logistics-workflow
-	url = https://github.com/oca/stock-logistics-workflow.git
+	url = https://github.com/dreispt/stock-logistics-workflow.git
 	branch = 15.0
